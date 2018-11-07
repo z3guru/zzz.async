@@ -59,3 +59,11 @@ typings/
 
 # next.js build output
 .next
+
+# intellij devtools
+.idea/
+
+# etc
+package-lock.json
+.gitignore.swp
+
