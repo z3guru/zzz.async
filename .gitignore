@@ -62,6 +62,7 @@ typings/
 
 # intellij devtools
 .idea/
+*.iml
 
 # etc
 package-lock.json
